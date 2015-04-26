@@ -3,7 +3,6 @@
 ## for a single matrix.
 
 
-
 ## This function returns matrix with caching ability.
 ## Once inverse matrix is calculated it will be stored 
 ## in cache. It also stores functions
